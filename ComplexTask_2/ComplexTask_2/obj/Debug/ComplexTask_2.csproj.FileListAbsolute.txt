@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\bin\Debug\ComplexTask_2.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\bin\Debug\ComplexTask_2.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\bin\Debug\ComplexTask_2.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\obj\Debug\ComplexTask_2.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\obj\Debug\ComplexTask_2.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\obj\Debug\ComplexTask_2.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ComplexTask_2\ComplexTask_2\obj\Debug\ComplexTask_2.pdb
