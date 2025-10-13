@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\bin\Debug\MatrixTask_1.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\bin\Debug\MatrixTask_1.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\bin\Debug\MatrixTask_1.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\obj\Debug\MatrixTask_1.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\obj\Debug\MatrixTask_1.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\obj\Debug\MatrixTask_1.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\obj\Debug\MatrixTask_1.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\MatrixTask_1\MatrixTask_1\obj\Debug\MatrixTask_1.exe.config
