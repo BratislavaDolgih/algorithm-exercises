@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7821A6A-4258-4125-96A5-9452A08A71AD}|PriorityQueue_6\\PriorityQueue_6.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\exercises\\\u043F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\priorityqueue_6\\priorityqueue_6\\prioritysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7821A6A-4258-4125-96A5-9452A08A71AD}|PriorityQueue_6\\PriorityQueue_6.csproj|solutionrelative:priorityqueue_6\\prioritysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7821A6A-4258-4125-96A5-9452A08A71AD}|PriorityQueue_6\\PriorityQueue_6.csproj|C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\priorityqueue_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7821A6A-4258-4125-96A5-9452A08A71AD}|PriorityQueue_6\\PriorityQueue_6.csproj|solutionrelative:priorityqueue_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrioritySolver.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\PriorityQueue_6\\PrioritySolver.cs",
+              "RelativeDocumentMoniker": "PriorityQueue_6\\PrioritySolver.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\PriorityQueue_6\\PrioritySolver.cs",
+              "RelativeToolTip": "PriorityQueue_6\\PrioritySolver.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwGkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:16:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\PriorityQueue_6\\Program.cs",
+              "RelativeDocumentMoniker": "PriorityQueue_6\\Program.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\EXERCISES\\\u041F\u043E \u0441\u043F\u0438\u0441\u043A\u0443 \u0438\u0437 17 (\u0440\u0435\u043F\u043E)\\PriorityQueue_6\\PriorityQueue_6\\Program.cs",
+              "RelativeToolTip": "PriorityQueue_6\\Program.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAADwvwgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:09:23.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

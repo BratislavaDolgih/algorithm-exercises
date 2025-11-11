@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\bin\Debug\PriorityQueue_67.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\bin\Debug\PriorityQueue_67.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\bin\Debug\PriorityQueue_67.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\obj\Debug\PriorityQueue_6.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\obj\Debug\PriorityQueue_6.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\obj\Debug\PriorityQueue_67.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\PriorityQueue_6\PriorityQueue_6\obj\Debug\PriorityQueue_67.pdb
