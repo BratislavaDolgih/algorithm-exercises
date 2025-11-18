@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\bin\Debug\ArrayListProject_89.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\bin\Debug\ArrayListProject_89.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\bin\Debug\ArrayListProject_89.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\obj\Debug\ArrayListProject_89.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\obj\Debug\ArrayListProject_89.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\obj\Debug\ArrayListProject_89.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\obj\Debug\ArrayListProject_89.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayListProject_89\ArrayListProject_89\obj\Debug\ArrayListProject_89.exe.config

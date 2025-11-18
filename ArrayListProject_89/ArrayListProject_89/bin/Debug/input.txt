@@ -1,0 +1,8 @@
+﻿<html><body><H1>Заголовок</H1></body></html>
+<div><p>Текст</p></div>
+<HTML></Body><h1>ДругойЗаголовок</h1>
+<table><tr><td>Ячейка</td></tr></table>
+</HtMl><BODY><P></p>
+<span123><div456></span123>
+НетТегов<br><hr/>Текст
+< invalid><valid123></valid123>
