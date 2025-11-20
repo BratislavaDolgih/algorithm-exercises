@@ -1,0 +1,8 @@
+My IP: 192.168.1.1, what's yours?
+Invalid: 256.1.1.1, 192.168.1.256, 192.168.001.1
+Edge cases: 121.121.121.121.2 and 111.111.111.1111
+Valid: 0.0.0.0 and 255.255.255.255
+Inside text192.168.0.1more text
+Multiple IPs: 10.0.0.1 and 8.8.8.8 and 1.1.1.1
+Leading zeros: 192.168.01.1 (invalid)
+Localhost: 127.0.0.1
