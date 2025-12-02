@@ -173,8 +173,8 @@ public class MyStack<T> : MyVector<T>
         return -1;
     }
 }
-
-/*public class Program
+/*
+public class Program
 {
     public static void Main()
     {

@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\bin\Debug\ArrayList1415.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\bin\Debug\ArrayList1415.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\bin\Debug\ArrayList1415.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\obj\Debug\ArrayList1415.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\obj\Debug\ArrayList1415.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\obj\Debug\ArrayList1415.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\ArrayList1415\ArrayList1415\obj\Debug\ArrayList1415.pdb
