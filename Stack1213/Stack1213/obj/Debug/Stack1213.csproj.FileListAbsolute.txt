@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\bin\Debug\Stack1213.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\bin\Debug\Stack1213.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\bin\Debug\Stack1213.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\obj\Debug\Stack1213.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\obj\Debug\Stack1213.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\obj\Debug\Stack1213.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\obj\Debug\Stack1213.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\По списку из 17 (репо)\Stack1213\Stack1213\obj\Debug\Stack1213.exe.config
